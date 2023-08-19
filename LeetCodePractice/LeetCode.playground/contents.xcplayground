@@ -4,5 +4,8 @@
         <page name='LeetCode_1_TwoSum'/>
         <page name='LeetCode_121_BuyStock'/>
         <page name='LeetCode_217_Duplicate'/>
+        <page name='LeetCode_242_Anagram'/>
+        <page name='LeetCode_36_Sudoku'/>
+        <page name='LeetCode_347_Frequent'/>
     </pages>
 </playground>
