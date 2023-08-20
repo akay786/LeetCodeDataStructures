@@ -7,5 +7,6 @@
         <page name='LeetCode_242_Anagram'/>
         <page name='LeetCode_36_Sudoku'/>
         <page name='LeetCode_347_Frequent'/>
+        <page name='LeetCode_49_GroupAnagrams'/>
     </pages>
 </playground>
