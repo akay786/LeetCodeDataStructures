@@ -9,5 +9,7 @@
         <page name='LeetCode_347_Frequent'/>
         <page name='LeetCode_49_GroupAnagrams'/>
         <page name='LeetCode_238_Product'/>
+        <page name='InterView_1_Practice'/>
+        <page name='InterView_2_Practice'/>
     </pages>
 </playground>
